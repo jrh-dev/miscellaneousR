@@ -1,2 +1,2 @@
 # miscellaneousR
-Miscellaneous R code, worth keeping but not packaging.
+Miscellaneous R code, code worth keeping but not packaging.
